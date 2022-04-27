@@ -1,13 +1,9 @@
-# Quantitative T<sub>1</sub> MRI
+# Quantitative T<sub>1</sub> MRI Lesson
 
-This is an introductory tutorial to quantitative T<sub>1</sub> mapping, powered by [qMRLab](http://www.qmrlab.org).
+
+
+This is an interactive lesson on quantitative T<sub>1</sub> mapping, based on Jupyter Notebooks from [qMRLab]([qMRLab/t1_book: Jupyter Book of quantitative T1 MRI http://qmrlab.org/t1_book/ (github.com)](https://github.com/qMRLab/t1_book), for the MRI Course at University of Pisa held by Prof. Michela Tosetti (spring 2022).
 
 It is rendered here using [Jupyter Book](https://github.com/jupyter/jupyter-book).
 
-## Acknowledgements
 
-This repo uses a Jupyter Book template ([Intro to Machine Learning - Montreal AI and Neuroscience (MAIN) 2018 ](https://github.com/brainhack101/introML-book)) that was originally prepared by 
-[Elizabeth Dupre](https://elizabeth-dupre.com),
-[Pierre Bellec](https://simexp.github.io/lab-website/),
-[Greg Kiar](http://gkiar.me),
-and [Jake Vogel](https://scholar.google.ca/citations?user=1m6yqlwAAAAJ&hl=en).
